@@ -33,3 +33,9 @@ p {
 .menu a:hover {
   color: #0077cc;
 }
+.profile-pic {
+  width: 160px;
+  border-radius: 50%;
+  display: block;
+  margin: 20px auto;
+}
