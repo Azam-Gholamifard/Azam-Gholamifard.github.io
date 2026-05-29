@@ -39,3 +39,7 @@ p {
   display: block;
   margin: 20px auto;
 }
+.farsi {
+  direction: rtl;
+  text-align: right;
+}
